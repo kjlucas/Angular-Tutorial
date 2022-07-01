@@ -13,10 +13,6 @@ import reactor.core.publisher.Mono;
 @CrossOrigin
 public class ReservationResource {
     
-    private int rando = 1;
-    int why = 2;
-    bool huh = false;
-    
     public static final String ROOM_V_1_RESERVATION = "/room/v1/reservation/";
 
     private final ReservationService reservationService;
