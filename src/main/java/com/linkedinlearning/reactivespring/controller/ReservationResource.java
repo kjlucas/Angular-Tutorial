@@ -57,4 +57,7 @@ public class ReservationResource {
         return reservationService.deleteReservation(id);
 
     }
+    public void useless(){
+        return;
+    }
 }
