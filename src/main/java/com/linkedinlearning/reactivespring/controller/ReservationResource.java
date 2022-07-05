@@ -59,7 +59,7 @@ public class ReservationResource {
 
     }
 
-    public void useless (){
-        return;
-    }
+//    public void useless (){
+//        return;
+//    }
 }
